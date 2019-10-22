@@ -19,10 +19,10 @@
 //
 
 //! Project version number for SmartlingLib.
-FOUNDATION_EXPORT double SmartlingLibVersionNumber;
+extern double SmartlingLibVersionNumber;
 
 //! Project version string for SmartlingLib.
-FOUNDATION_EXPORT const unsigned char SmartlingLibVersionString[];
+extern const unsigned char SmartlingLibVersionString[];
 
 // In this header, you should import all the public headers of your framework using statements like #import <SmartlingLib/PublicHeader.h>
 
